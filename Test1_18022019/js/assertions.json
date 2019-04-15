@@ -1,0 +1,10 @@
+{
+  "simulation": "legoghs_live_ccboost",
+  "simulationId": "legoghs-live-ccboost",
+  "start": 1550459552466,
+  "description": "",
+  "scenarios": ["sc08", "sc09"],
+  "assertions": [
+
+  ]
+}
